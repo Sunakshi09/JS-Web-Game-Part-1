@@ -80,4 +80,5 @@ sword.addEventListener('dblclick', () => {
 newItem('assets/sword.png', 500, 405)
 newItem('assets/sheild.png', 165, 185)
 newItem('assets/staff.png', 600, 100)
+newItem('assets/rock.png', 120, 200)
 
